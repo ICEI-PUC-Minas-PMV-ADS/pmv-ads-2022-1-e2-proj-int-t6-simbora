@@ -3,10 +3,10 @@
 Análise e Desenvolvimento de Sistema
 
 
-`Desenvolvimento de uma aplicação interativa
+`Desenvolvimento de uma aplicação interativa'
 
 
-2 Semestre `
+2 Semestre 
 
 ## Integrantes
 
