@@ -1,27 +1,19 @@
-# TÍTULO DO PROJETO
+# SIMBORA
 
-`CURSO`
+Análise e Desenvolvimento de Sistema
 
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`Desenvolvimento de uma aplicaçço Interativa
+2 Semestre `
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Aline Martins Candido 
+* Lucia Raquel Ramos Berger 
 
 ## Orientador
 
-* Nome completo do professor 1
+*  Professora Luciana De Nardin
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
