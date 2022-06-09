@@ -1,4 +1,5 @@
 # Especificações do Projeto
+
 <p>A definição exata do problema se deu através de pesquisas em relação à realidade cultural brasileira e das demandas percebidas pelos integrantes do grupo que residem no Brasil. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. </p>
 <p>Os dados foram coletados a partir de Personas e Histórias de usuários.</p>
 
@@ -11,11 +12,9 @@
         <th></th>
     <tr><td><b> <img src = "img/renato.jpeg" alt="drawing" width="100"/> </b></td>
         <th>Renato Vieira</th>
-     
+
 <th> <img src = "img/patricia.jpeg" alt="drawing" width="100"/> </th>
         <th>Patrícia Campos</th>
-     
-
 
   </thead>
 
@@ -58,13 +57,13 @@
      </ul></td>
       <td><ul><li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente;</li>
        <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento. </li>
-     </ul> </td>     
+     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
        <li> Jogar futebol. </li>
        <li> Fazer churrasco com os amigos. </li>
-       <li> Frequentar teatros, cinemas, shows de música, exposições de arte.  </li>     
+       <li> Frequentar teatros, cinemas, shows de música, exposições de arte.  </li>
      </ul></td>
       <td>
      <ul>
@@ -82,11 +81,9 @@
         <th></th>
     <tr><td><b> <img src = "img/Fabiana Medeiros atual.jpg" alt="drawing" width="100"/> </b></td>
         <th>Luiza Antunes</th>
-     
+
 <th> <img src = "img/Fabiana Medeiros.jpg" alt="drawing" width="100"/> </th>
         <th>Fabiana Medeiros</th>
-     
-
 
   </thead>
 
@@ -132,13 +129,13 @@
       <td><ul><li>Encontrar limitação de dados a serem publicados para realizar uma melhor propaganda do evento</li>
        <li>Observar que as informações sobre o evento foram publicadas de forma discreta, </li>
        <li>Difulcade em receber a sugestões do público que participou do evento e receber tudo na sua caixa de e-mail.</li>
-     </ul> </td>     
+     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
        <li> Compor música;. </li>
        <li> Ler livros de romance e poesias </li>
-       <li>Ir a shows de música dos seus amigos.  </li>     
+       <li>Ir a shows de música dos seus amigos.  </li>
      </ul></td>
       <td>
      <ul>
@@ -150,7 +147,6 @@
  </table>
 </div>
 
-
 ## Histórias de Usuários
 
 <p>Foram registradas as seguintes histórias de usuário, a partir das necessidades das personas identificadas para o projeto:</p>
@@ -161,7 +157,7 @@
       <th>Quero/Desejo</th>
        <th>Para</th>
     </thead>
-    
+
    <tbody id="tbody">
      <td>Renato Vieira</td>
          <td> Deseja ter acesso a uma aplicação com eventos centralizados. </td>
@@ -178,8 +174,8 @@
    </tbody>
   </table>
 
-
 ## Requisitos do Projeto
+
 <p>São apresentados abaixo, os requisitos funcionais, não funcionais e restrições que nortearão a construção deste projeto. Ressalta-se que tais requisitos foram elaborados com base nas histórias de usuários levantadas. </p>
 
 ### Requisitos Funcionais
@@ -215,7 +211,7 @@ td>Média</td>
    <tr>
      <td><b>RF-05</b></td>
    <td>A aplicação deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
-    <td>Média</td> 
+    <td>Média</td>
    </tr>
    <tr>
     <td><b>RF-06</b></td>
@@ -234,7 +230,6 @@ td>Média</td>
    </tr>
   </tbody>
  </table>
-
 
 ### Requisitos não Funcionais
 
@@ -272,7 +267,6 @@ td>Média</td>
 
 ## Restrições
 
-
 <p>As restrições para o desenvolvimento deste projeto, configurando-se nas limitações pré-definidas para a sua execução estão dispostas na tabela a seguir.</p>
 <table class="table">
   <thead>
@@ -295,18 +289,19 @@ td>Média</td>
  </table>
 
 ## Diagrama de Casos de Uso
+
 ## Diagrama de Casos de Us
+
 ![Casos de uso](https://user-images.githubusercontent.com/91073637/162643642-ef2eb2b1-85b1-4578-8c79-584862c291ad.jpg)
 
-
 ## Video sobre o projeto
-https://user-images.githubusercontent.com/80483432/158193078-0dcfd945-d72b-44a6-940e-e8d20cb7fd53.mp4
+
+<https://user-images.githubusercontent.com/80483432/158193078-0dcfd945-d72b-44a6-940e-e8d20cb7fd53.mp4>
 
 ## Wireframes
+
 ![WhatsApp Image 2022-03-27 at 21 54 34 (1)](https://user-images.githubusercontent.com/86447935/161623849-948f3f4d-e9ee-4716-9713-4a0944feef4a.jpeg)
 ![WhatsApp Image 2022-03-27 at 21 54 34 (2)](https://user-images.githubusercontent.com/86447935/161623851-d42cf8bf-24f5-4454-813b-2731fb7086da.jpeg)
 ![WhatsApp Image 2022-03-27 at 21 54 34](https://user-images.githubusercontent.com/86447935/161623855-389ed31d-8c82-4b99-8d4f-f2ddfc0cc0fe.jpeg)
 ![WhatsApp Image 2022-03-27 at 21 54 35 (1)](https://user-images.githubusercontent.com/86447935/161623857-8fd80ef5-b9bc-44b0-8a74-d3e4703f4ef6.jpeg)
 ![WhatsApp Image 2022-03-27 at 21 54 35](https://user-images.githubusercontent.com/86447935/161623858-b773c258-7d6c-4129-be2e-8bd18a3df618.jpeg)
-
-
