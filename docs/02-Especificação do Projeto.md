@@ -79,7 +79,7 @@
  <table>
   <thead>
         <th></th>
-    <tr><td><b> <img src = "img/Fabiana Medeiros atual.jpg" alt="drawing" width="100"/> </b></td>
+    <tr><td><b> <img src = "img/Luiza Antunes.jpg" alt="drawing" width="100"/> </b></td>
         <th>Luiza Antunes</th>
 
 <th> <img src = "img/Fabiana Medeiros.jpg" alt="drawing" width="100"/> </th>
