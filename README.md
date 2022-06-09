@@ -2,26 +2,24 @@
 
 Análise e Desenvolvimento de Sistema
 
-
 `Desenvolvimento de uma Aplicação interativ
 
-
-2 Semestre 
+2 Semestre
 
 ## Integrantes
 
-* Aline Martins Candido 
-* Lucia Raquel Ramos Berger 
+* Aline Martins Candido
+* Lucia Raquel Ramos Berger
 
 ## Orientador
 
-*  Professora Luciana De Nardin
-
+* Professora Luciana De Nardin
 
 # Documentação
 
 <ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+
+<li><a href="docs/01-Introdução.md"> Introdução</a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
