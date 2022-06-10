@@ -195,7 +195,7 @@
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
-    <<td>A aplicação deve disponibilizar ao usuário uma opção para o cadastro de Evento.
+    <td>A aplicação deve disponibilizar ao usuário uma opção para o cadastro de Evento.
     </td>    <td>Alta</td>
    </tr>
    <tr>
