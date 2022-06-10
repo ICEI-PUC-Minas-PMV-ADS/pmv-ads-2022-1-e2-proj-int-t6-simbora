@@ -6,7 +6,11 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
+![Class Diagram0](https://user-images.githubusercontent.com/91221827/161859264-c7aa24a6-477b-4b98-a9bc-7e7e9595cea3.png)
+
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+
+Neste Diagrama de Classes é possível observar as seguintes informações: o site Simbora possui zero ou n, vários (0..*) usuários e um (1) usuário pertence a 1 site Simbora. As subclasses PromoterArtista e Cliente, cada uma com seus atributos específicos, herdam os atributos da superclasse Usuário.Já a classe Evento está com relação de associação com a classe Simbora!, sendo que a classe Simbora! divulga zero ou n, vários (0..*) Eventos e um (1) Evento pertence a classe Simbora!.
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
@@ -19,6 +23,8 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
+<img src="img\diagramaer.png">
+
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Esquema Relacional
@@ -26,6 +32,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
+
+<img src="img\sistemarelacional.png">
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
