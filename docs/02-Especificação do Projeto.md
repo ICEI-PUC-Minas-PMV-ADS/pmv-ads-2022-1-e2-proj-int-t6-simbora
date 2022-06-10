@@ -164,7 +164,7 @@
      <td>Encontrar o que fazer, seja dia de semana, seja fim de semana, mais rapidamente.</td>
    <tr><td>Patrícia Campos</td>
            <td> A  possibilidade de publicação de seu evento. </td>
-    <td>Obter maior visibilidade, acarretando em um público maior no evento.</td></tr>|
+    <td>Obter maior visibilidade, acarretando em um público cada vez maior.</td></tr>|
    <tr><td>Luiza Antunes</td>
         <td> Possibilidade de divulgar seus shows com informações corretas.  </td>
        <td> Poder construir uma carreira no mundo da música, obtendo maior visibilidade com os eventos que participará.</td></tr>
