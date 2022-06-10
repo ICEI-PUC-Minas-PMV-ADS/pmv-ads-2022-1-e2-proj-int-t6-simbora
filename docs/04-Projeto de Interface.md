@@ -5,7 +5,7 @@
 
 #SIMBORA
 
-Tela - introdução, login (se Promoter), perfil, cadastro de evento (se Promoter), busca de evento, . 
+Tela - introdução, login, perfil, cadastro de evento (se Promoter), busca de evento, . 
 
 Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar um ambienete alegre, comunicativo mas sem esquecer a outra face melancôlica de nobreza teatral optamos por cores relacionados com a cor purpura e tons de salmão, cor que incentiva a conversa, conforme a psicologia afirma:
 
