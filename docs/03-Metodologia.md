@@ -4,7 +4,7 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 A metodologia eleita pelo grupo é a Scrum. A metodologia Scrum é uma das metodologias ageis e tem como característica a flexibilidade nas decisões de desenvolvimento do software por conta da divisão das tarefas em <b>Sprints</b>.<br>
-Dessa forma fica decidido que o grupo, para o desenvolviment das atividades propostas, terá sprints semanais. Sendo o prazo suficiente para o desenvolvimento das funcionalidades do projeto, potencializando, desta forma, o trabalho em equipe e a evolução do produto, tendo como foco a potencialização na produção e o cumprimento dos prazos estabelecidos.<br>
+Dessa forma fica decidido que o grupo, para o desenvolvimento das atividades propostas, terá sprints semanais. Sendo o prazo suficiente para o desenvolvimento das funcionalidades do projeto, potencializando, desta forma, o trabalho em equipe e a evolução do produto, tendo como foco a potencialização na produção e o cumprimento dos prazos estabelecidos.<br>
 
 ## Relação de Ambientes de Trabalho
 
@@ -26,15 +26,15 @@ Link de acesso
  <tbody>
   <td>Repositório de código fonte </td>
   <td>GitHub </td>
-  <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4  </td>
+  <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-simbora.git  </td>
   <tr><td><b>Documentação do projeto </b></td>
       <td>Google.docs</td>
       <td>https://docs.google.com/document/d/1z1fkUxMW35rLXXbT5kevD8mt1kMQ60_QO_EvD0p-5F8/edit </td></tr>
    <tr><td>Gerenciamento do projeto</td>
        <td>Github </td>
-     <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4 </td>
+     <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-simbora.git </td>
  </tbody>
-</table>
+</table>s
 
 ## Controle de Versão
 
@@ -108,15 +108,13 @@ Semana
       <td>Estilizar, adicionar botões necessários e responsivos</td>
   <td>1</td></tr>
    <tr><td>2</td>
-       <td>Tela de login usuários FrontEnd </td>
+       <td>Tela de login Promoter FrontEnd </td>
      <td>Estilizar, adicionar botões necessários e responsivos </td>
     <td>2</td>
   <tr><td>2</td><td>Tela de cadastro de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>2</td></tr>
-  <tr><td>3</td><td>Tela de busca de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>3</td></tr>
-  <tr><td>3</td><td>Tela de Especificação de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>3</td></tr>
-  <tr><td>4</td><td>Desenvolvimento Banco de dados SQL</td><td>Preparar banco de dados para integração à aplicação</td><td>4</td></tr>
-  <tr><td>4</td><td>Integração SQL à aplicação</td><td>Integrar backEnd da aplicação ao FrontEnd</td><td>4</td></tr>
-  <tr><td>5</td><td>Integrar API Correios</td><td>Integrar as funcionalidades à API</td><td>5</td></tr>
+  <tr><td>3</td><td>Desenvolvimento Banco de dados SQL</td><td>Preparar banco de dados para integração à aplicação</td><td>4</td></tr>
+  <tr><td>3</td><td>Integração SQL à aplicação</td><td>Integrar backEnd da aplicação ao FrontEnd</td><td>4</td></tr>
+  <tr><td>4</td><td>Integrar API Correios</td><td>Integrar as funcionalidades à API</td><td>5</td></tr>
  </tbody>
 </table>
 
