@@ -104,9 +104,8 @@ Semana
   <td>Estilizar, adicionar botões necessários e responsivos </td>
   <td>1</td>
   <tr><td>1</td>
-      <td>Tela de Cadastro usuários FrontEnd</td>
+      <td>Tela de Cadastro de Promoter FrontEnd</td>
       <td>Estilizar, adicionar botões necessários e responsivos</td>
-  <td>1</td></tr>
    <tr><td>2</td>
        <td>Tela de login Promoter FrontEnd </td>
      <td>Estilizar, adicionar botões necessários e responsivos </td>
