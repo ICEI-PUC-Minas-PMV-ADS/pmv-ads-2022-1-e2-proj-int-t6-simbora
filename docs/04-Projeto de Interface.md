@@ -5,10 +5,6 @@
 
 #SIMBORA
 
-Conforme descrito abaixo,  vai ser apresentados as telas de aplicação, o porque de escolher as cores, como também todo o fluxograma.
-
-*observação:* O link que consta o acesso ao fluxograma consta no final.
-
 Tela - introdução, login (se Promoter), perfil, cadastro de evento (se Promoter), busca de evento, . 
 
 Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar um ambienete alegre, comunicativo mas sem esquecer a outra face melancôlica de nobreza teatral optamos por cores relacionados com a cor purpura e tons de salmão, cor que incentiva a conversa, conforme a psicologia afirma:
@@ -63,7 +59,4 @@ https://thecolor.blog/pt/psicologia-da-cor-purpura/
 # Evento/inscrito:
 
 ![WhatsApp Image 2022-03-27 at 21 54 32 (5)](https://user-images.githubusercontent.com/84060551/160535745-b1a4ee28-4c4d-4fb9-ba61-adf969c299cc.jpeg)
-
- # Clique aqui para o sistema funcional completo : https://www.figma.com/proto/14Ykh8olDv7TK3yTn02c0w/Projeto-do-segundo-semestre-(Copy)?node-id=1%3A156&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A156&show-proto-sidebar=1
-
 
