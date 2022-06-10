@@ -191,7 +191,7 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td>A aplicação deve permitir que o Promoter permaneça logado por 7 dias. </td>
+      <td>A aplicação deve permitir que o usuário permaneça logado por 7 dias. </td>
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
@@ -219,6 +219,11 @@
    </tr>
    <td><b>RF-08</b></td>
     <td> A aplicação deve permitir que as avaliações estejam visiveis para todos os usuários. </td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-05</b></td>
+ <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Publico. </td>
     <td>Alta</td>
    </tr>
   </tbody>
