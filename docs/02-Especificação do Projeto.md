@@ -167,7 +167,7 @@
     <td>Obter maior visibilidade, acarretando em um público maior no evento.</td></tr>|
    <tr><td>Luiza Antunes</td>
         <td> Possibilidade de divulgar seus shows com informações corretas.  </td>
-       <td>Cadastrar um Evento de forma simples e fácil.</td></tr>
+       <td> Poder construir uma carreira no mundo da música, obtendo maior visibilidade com os eventos que participará.</td></tr>
    <tr><td>Fabiana Medeiros</td>
         <td> Poder visualizar avaliações e comentários do público.  </td>
        <td>Aumentar o público presente no evento, melhorando sua reputação como promotora de eventos</td></tr>
