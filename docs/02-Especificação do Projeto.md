@@ -124,7 +124,7 @@
      <ul>
       <li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente</li>
       <li>informações práticas e eficiente apresentadas em um lugar, para entender os eventos que ocorrem na sua região</li>
-      <li>Não posssuir um canal excluisivo que apresente os eventos que possuem acessibildiade, por ser uma pessoa surda deseja um lugar mais claro e objetivo com as informações relevantes.</li>
+      <li>Não posssuir um canal excluisivo que apresente os eventos que possuem acessibildiade.</li>
      </ul></td>
       <td><ul><li>Encontrar limitação de dados a serem publicados para realizar uma melhor propaganda do evento</li>
        <li>Observar que as informações sobre o evento foram publicadas de forma discreta, </li>
@@ -164,13 +164,13 @@
      <td>Encontrar o que fazer, seja dia de semana, seja fim de semana, mais rapidamente.</td>
    <tr><td>Patrícia Campos</td>
            <td> A  possibilidade de publicação de seu evento. </td>
-    <td>Obter maior visibilidade, acarretando em um público maior no evento e maiores retornos financeiros.</td></tr>|
+    <td>Obter maior visibilidade, acarretando em um público maior no evento.</td></tr>|
    <tr><td>Luiza Antunes</td>
         <td> Possibilidade de divulgar seus shows com informações corretas.  </td>
-       <td>Poder construir uma carreira no mundo da música, obtendo maior visibilidade com os eventos que participarei</td></tr>
+       <td>Cadastrar um Evento de forma simples e fácil.</td></tr>
    <tr><td>Fabiana Medeiros</td>
-        <td> Poder visualizar avaliações e comentários de fãs e clientes.  </td>
-       <td>Aumentar o público presente no evento, melhorando minha reputação como promotora de eventos</td></tr>
+        <td> Poder visualizar avaliações e comentários do público.  </td>
+       <td>Aumentar o público presente no evento, melhorando sua reputação como promotora de eventos</td></tr>
    </tbody>
   </table>
 
@@ -191,41 +191,39 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td> Para acesso a aplicação o usuário necessita por meio de login. Permitindo o cadastro e o acesso de usuários já cadastrados. E ainda permitindo recuperar a senha em caso de perda. </td>
+      <td>A aplicação deve permitir que o usuãrio permaneça logado por 7 dias. </td>
    <td>Alta</td>
-
    <tr>
     <td><b>RF-02</b></td>
-        <td> A aplicação deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
-    <td>Alta</td>
+    <<td>A aplicação deve disponibilizar ao usuário uma opção para o cadastro de Evento.
+    </td>    <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <<td>A aplicação deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
-td>Média</td>
-   </tr>
-   <tr>
-    <td><b>RF-04</b></td>
    <td>A aplicação deve disponibilizar um campo para comentários e avaliações de cada evento para os usuários. </td>
     <td>Alta</td></tr>
    <tr>
-     <td><b>RF-05</b></td>
-   <td>A aplicação deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
-    <td>Média</td>
+    <td><b>RF-04</b></td>
+ <td>A aplicação deve disponibilizar ao usuário horários, locais e detalhes sobre as atividades/eventos cadastrados.</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-05</b></td>
+ <td>A aplicação deve disponibilizar opções para que o usuário possa editar seu perfil. </td>
+    <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-06</b></td>
- <td>A aplicação deve disponibilizar ao usuário horários e locais de atividades/eventos.</td>
+ <td>A aplicação deve disponibilizar opções para que o usuário possa se cadastrar como Promoter ou como Público.</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-07</b></td>
-  <td>A aplicação deve disponibilizar ferramentas para que o usuário possa compartilhar a página de um evento. </td>
- <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-08</b></td>
     <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
+    <td>Alta</td>
+   </tr>
+   <td><b>RF-08</b></td>
+    <td> A aplicação deve permitir que o Promoter visualize as avaliações em seu Evento. </td>
     <td>Alta</td>
    </tr>
   </tbody>
