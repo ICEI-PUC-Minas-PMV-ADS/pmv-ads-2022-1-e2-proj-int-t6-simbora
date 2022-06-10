@@ -3,36 +3,67 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+#SIMBORA
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Conforme descrito abaixo,  vai ser apresentados as telas de aplicação, o porque de escolher as cores, como também todo o fluxograma.
 
-## Diagrama de Fluxo
+*observação:* O link que consta o acesso ao fluxograma consta no final.
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+Tela - introdução, login (se Promoter), perfil, cadastro de evento (se Promoter), busca de evento, . 
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos <https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram>.
+Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar um ambienete alegre, comunicativo mas sem esquecer a outra face melancôlica de nobreza teatral optamos por cores relacionados com a cor purpura e tons de salmão, cor que incentiva a conversa, conforme a psicologia afirma:
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+“Além disso, a sensação de calmaria e tranquilidade também estão relacionados com o roxo. Por essa razão, vários temas espirituais e ligados à fé são representados com esta cor.”
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+“O roxo ainda representa a imagem do sucesso, da nobreza e da riqueza.”
 
-> **Links Úteis**:
->
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+# Cor Salmão 
+FF7575
 
-## Wireframes
+Tem como significado a cor salmão, além do mencionado,  transmite por meio da  sua  tonalidade um senso de abundância e também incentiva a interação dentro de um espaço. Sentimento ideal para quem deseja ir em um evento. A aplicação SIMBORA, tem como proposta divulgar e instigar as pessoas valorizarem a cultura. 
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+A cor salmão está associada à felicidade, por isso muitas pessoas gostam de fazer a decoração no quarto de bebê com os tons de salmão.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+Assim, segue abaixo a demonstração das paletas de cores com base no que esta sendo proposto para a construção do aplicativo.
 
-> **Links Úteis**:
->
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+  Salmão : ![salmão](https://user-images.githubusercontent.com/84060551/160533947-438b9ff0-d129-4bb6-a65c-ad97a25dccde.png)
+  
+# Cor Púrpura  
+C68585 
+
+A cor Púrpura, conforme a fase 1 do nosso trabalho, introduão aborda muito a questão social um dos motivos da criação di SIMBORA. Como a cor púpura seguindo o estudo das cores elas carrega consigo um ar social e humanitário. 
+
+"O púrpura é a cor dos humanitários, que usam o seu melhor julgamento para fazer o bem aos outros. Combinando sabedoria e poder com sensibilidade e humildade, a púrpura pode realizar muito para os menos afortunados."
+  
+  Púrpura :  ![Púrpuras](https://user-images.githubusercontent.com/84060551/160533054-cbff8a47-558c-419a-b9f4-45ea009644ba.png)
+
+https://thecolor.blog/pt/psicologia-da-cor-purpura/
+
+# Fluxograma do Projeto:
+
+![fluxograma png final ](https://user-images.githubusercontent.com/84060551/162944269-dd7f350c-da50-48b6-89ca-71aa61c81009.png)
+
+
+# Introdução, Sugestão e Comentário:  
+
+![SugestãoeComentário ](https://user-images.githubusercontent.com/84060551/164555782-1b2776c3-8878-49fa-9f30-530956c13aa6.png)
+
+# Login: 
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (2)](https://user-images.githubusercontent.com/84060551/160534837-b6e88193-e960-4ea1-831d-b51d56fe7d67.jpeg)
+
+# Perfil/busca:
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (3)](https://user-images.githubusercontent.com/84060551/160534957-c18a793b-64ae-4c17-9dc9-edcfd19d5d6c.jpeg)
+
+# Grupo: 
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (4)](https://user-images.githubusercontent.com/84060551/160535556-c2a87373-26a2-4af2-8039-b5f46150de7a.jpeg)
+
+# Evento/inscrito:
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (5)](https://user-images.githubusercontent.com/84060551/160535745-b1a4ee28-4c4d-4fb9-ba61-adf969c299cc.jpeg)
+
+ # Clique aqui para o sistema funcional completo : https://www.figma.com/proto/14Ykh8olDv7TK3yTn02c0w/Projeto-do-segundo-semestre-(Copy)?node-id=1%3A156&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A156&show-proto-sidebar=1
+
+
