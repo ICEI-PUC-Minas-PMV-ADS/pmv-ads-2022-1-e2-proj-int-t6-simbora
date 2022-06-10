@@ -191,7 +191,7 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td>A aplicação deve permitir que o usuário permaneça logado por 7 dias. </td>
+      <td>A aplicação deve permitir que o Promoter permaneça logado por 7 dias. </td>
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
@@ -209,12 +209,7 @@
    </tr>
    <tr>
     <td><b>RF-05</b></td>
- <td>A aplicação deve disponibilizar opções para que o usuário possa editar\deletar seu perfil. </td>
-    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-06</b></td>
- <td>A aplicação deve disponibilizar opções para que o usuário possa se cadastrar como Promoter ou como Público.</td>
+ <td>A aplicação deve disponibilizar opções para que o Promoter possa editar\deletar seu perfil. </td>
     <td>Alta</td>
    </tr>
    <tr>
