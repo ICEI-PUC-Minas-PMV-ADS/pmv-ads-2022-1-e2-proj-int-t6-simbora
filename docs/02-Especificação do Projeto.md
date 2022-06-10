@@ -200,16 +200,16 @@
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-   <td>A aplicação deve disponibilizar um campo para comentários e avaliações de cada evento para os usuários. </td>
+   <td>A aplicação deve disponibilizar um campo para comentários e avaliações por nota (0-10) de cada evento para os usuários. </td>
     <td>Alta</td></tr>
    <tr>
     <td><b>RF-04</b></td>
- <td>A aplicação deve disponibilizar ao usuário horários, locais e detalhes sobre as atividades/eventos cadastrados.</td>
+ <td>A aplicação deve disponibilizar ao usuário datas, horários, locais e detalhes sobre as atividades/eventos cadastrados.</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-05</b></td>
- <td>A aplicação deve disponibilizar opções para que o usuário possa editar seu perfil. </td>
+ <td>A aplicação deve disponibilizar opções para que o usuário possa editar\deletar seu perfil. </td>
     <td>Alta</td>
    </tr>
    <tr>
@@ -223,7 +223,7 @@
     <td>Alta</td>
    </tr>
    <td><b>RF-08</b></td>
-    <td> A aplicação deve permitir que o Promoter visualize as avaliações em seu Evento. </td>
+    <td> A aplicação deve permitir que as avaliações estejam visiveis para todos os usuários. </td>
     <td>Alta</td>
    </tr>
   </tbody>
@@ -286,7 +286,7 @@
   </tbody>
  </table>
 
-## Diagrama de Casos de Us
+## Diagrama de Casos de Uso
 
 ![Casos de uso](https://user-images.githubusercontent.com/91073637/162643642-ef2eb2b1-85b1-4578-8c79-584862c291ad.jpg)
 
