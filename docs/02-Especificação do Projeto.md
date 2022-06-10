@@ -191,7 +191,7 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td>A aplicação deve permitir que o usuãrio permaneça logado por 7 dias. </td>
+      <td>A aplicação deve permitir que o usuário permaneça logado por 7 dias. </td>
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
