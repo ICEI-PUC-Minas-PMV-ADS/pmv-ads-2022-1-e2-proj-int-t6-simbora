@@ -13,25 +13,23 @@ Por muitas vezes os aplicativos restringem-se a buscas isoladas, ou seja, por ca
 
 
 ## Problema
-O presente projeto pretende resolver o problema de dificuldade de acesso direto a informações atualizadas sobre várias programações culturais e de entretenimento que possam atender aos seus interesses. Além de solucionar o problema de divulgação de eventos, oferecendo uma alternativa prática e viável para promoters e artistas divulgarem seus eventos.  
+O presente projeto pretende resolver o problema de dificuldade de acesso direto a informações atualizadas sobre várias programações culturais e de entretenimento que possam atender aos seus interesses. Além de solucionar o problema de divulgação de eventos, oferecendo uma alternativa prática e viável para promoters divulgarem seus eventos, e possibilitando o acesso do cliente a eventos que muitas vezes não são devidamente divulgados e atingem um nicho específico de pessoas.  
 
 ## Objetivos
-O objetivo deste projeto é reunir os eventos culturais e de entretenimento disponíveis em cidades brasileiras em uma só plataforma, facilitando o acesso do usuário ao maior número possível de programações de maneira rápida, objetiva e atualizada.  
+O objetivo deste projeto é reunir os eventos culturais e de entretenimento disponíveis em Belo Horizonte em uma só plataforma, facilitando o acesso do cliente ao maior número possível de programações de maneira rápida, objetiva e atualizada.  
 
-Essa plataforma deverá apresentar as publicações distribuídas por categoria (teatro, cinemas e exposições), data, local, faixa etária, e custo (gratuitas ou pagas), o que também possibilitará o acesso do usuário a eventos que muitas vezes não são devidamente divulgados e atingem um nicho específico de pessoas.  
-
-Assim, promovendo a democratização cultural que tem como pilar facilitar o acesso da população à qualquer forma de arte e ao conhecimento científico
+Essa plataforma deverá apresentar os eventos que irão ocorrer em Belo Horizonte; cada evento apresentará informações importantes para o cliente, como: nome do evento, nome do artista, data, local, e informações adicionais, ou seja, um campo livre para adicionar informações que o promoter julge necessárias informar).
 
 ## Justificativa
 De acordo com uma pesquisa feita pelo IBGE em 2019, existe uma diferença significativa no acesso à cultura por parte da população preta e parda em relação à população branca: 44% dos pretos e pardos vivem em cidades sem cinemas, contra 34% da população branca; 37%, em cidades sem museus contra 25% dos brancos. Essa diferença também se exprime em relação aos centros e as periferias, com a maioria das atividades culturais se concentrando em áreas centrais.  
 
-Diante da demanda apresentada e da necessidade de acesso rápido e fácil a informações, vê-se a necessidade de criar um aplicativo que facilite o contato de usuários e consumidores de atividades culturais com os prestadores desses serviços, de modo a cada vez mais democratizar e popularizar a cultura nas cidades brasileiras.
+Diante da demanda apresentada e da necessidade de acesso rápido e fácil a informações, vê-se a necessidade de criar um aplicativo que facilite o contato de clientes, que procuram por uma alternativa de entretenimento,  e consumidores de atividades culturais, como os prestadores desses serviços, de modo a cada vez mais democratizar e popularizar a cultura na cidade de Belo Horizonte. Assim, promovendo a democratização cultural que tem como pilar facilitar o acesso da população à qualquer forma de arte e ao conhecimento científico
 
 ## Público-Alvo
 
 O público alvo da aplicação a ser desenvolvida são pessoas de qualquer faixa etária que consomem e realizam eventos culturais.  
 Pessoas que possuem interesse na diversidade de eventos culturais que ocorrem na cidade e, por falta de tempo, não conseguem buscar minuciosamente pelas várias plataformas já existentes; além de promoters e artistas que precisam divulgar determinado evento, com informações sobre data, horário, local e tipo de evento, de modo a atrair um publico maior. 
-<p> Assim, ao centralizar os eventos culturais da cidade em uma única plataforma, agilizaria o processo para este público específico. 
+<p> Assim, ao centralizar os eventos culturais da cidade de Belo Horizonte em uma única plataforma, agilizaria o processo para este público específico. 
 
 ## Referências Bibliográficas 
 
