@@ -37,32 +37,29 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 
 | `Caso de teste ` | ` CTU-004 Campos obrigatório no formulário de cadastro   `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Usuário identifica símbolo e legenda                    |  
+| Objetivo do teste            | Usuário identifica campos de preenchimento obrigatório                    |  
 | Critérios de Êxito           | Usuário preenche os campos obrigatório|
 
 | `Caso de teste ` | ` CTU-005 Erro no envio cadastro `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o sistema informa ao usuário porque o formulário não foi enviado                    |  
+| Objetivo do teste            | Verificar se o sistema informa ao usuário que o seu cadastrado não foi efetivado                    |  
 | Critérios de Êxito           | Sistema informa que o formulário não foi enviado com aviso| 
 
 | `Caso de teste ` | ` CTU-006 Cadastro Efetivado `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o sistema informa ao usuário que o formulário foi enviado                   |  
-| Critérios de Êxito           | Sistema informa que o formulário  foi cadastrado com sucesso| 
+| Objetivo do teste            | Verificar se o sistema informa ao usuário que o seu cadastro foi concluído                   |  
+| Critérios de Êxito           | Sistema informa que o usuário  foi cadastrado com sucesso| 
 
-| `Caso de teste ` | ` CTU-007 Usuário entende onde inclui novo atendimento  `                    | 
+| `Caso de teste ` | ` CTU-007 Usuário tipo Promoter entende onde inclui novo evento  `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o usuário identifica a opção de incluir atendimento                    |  
-| Critérios de Êxito           | Usuário identifica opções e selecionando opção novo atendimento| 
+| Objetivo do teste            | Verificar se o usuário tipo Promoter identifica a opção de incluir, editar e deletar evento                    |  
+| Critérios de Êxito           | Usuário tipo Promoter identifica opções de cadastrar novo evento, e editar e deletar evento já cadastrado| 
 
-| `Caso de teste ` | ` CTU-008 Usuário entende onde edita informação do atendimento `                    | 
+| `Caso de teste ` | ` CTU-008 Usuário entende onde inclui, edita e deleta comentários sobre eventos `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o usuário identifica a opção de editar um atendimento                   |  
-| Critérios de Êxito           | Usuário identifica opções e selecionando opção editar atendimento | 
+| Objetivo do teste            | Verificar se o usuário identifica a opção de incluir, editar e deletar evento                   |  
+| Critérios de Êxito           | Usuário identifica opções de incluir, editar e deletar evento  | 
 
-| `Caso de teste ` | ` CTU-009 Usuário entende onde pesquisa os atendimentos `                    | 
-|--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o usuário identifica a opção de pesquisar um atendimento                   |  
-| Critérios de Êxito           | Usuário identifica opções e selecionando opção de pesquisar atendimento| 
+
 
 
