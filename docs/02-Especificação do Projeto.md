@@ -209,7 +209,7 @@
    </tr>
    <tr>
     <td><b>RF-05</b></td>
- <td>A aplicação deve disponibilizar opções para que o Promoter possa editar\deletar seu perfil. </td>
+ <td>A aplicação deve disponibilizar opções para que o usuário possa editar\deletar seu perfil. </td>
     <td>Alta</td>
    </tr>
    <tr>
@@ -223,7 +223,7 @@
    </tr>
    <tr>
     <td><b>RF-05</b></td>
- <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Publico. </td>
+ <td>A aplicação deve permitir que o usuário se cadastre como Promoter ou como Publico. </td>
     <td>Alta</td>
    </tr>
   </tbody>
