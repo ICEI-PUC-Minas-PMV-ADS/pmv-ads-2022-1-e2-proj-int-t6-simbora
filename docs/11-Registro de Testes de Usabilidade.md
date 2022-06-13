@@ -18,7 +18,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 | **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
 | Usuário 1	| RF-003	| Até 1 min | 12 | 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-003 	| 20s | 50s  10  | 11| Nenhum | Fácil | 5 |
+| Usuário 2 | RF-003 	| 20s | 50s  10  | 0 Nenhum | Fácil | 5 |
 | Usuário 3	| RF-003 	| 27s | 13 | 0 | Nenhum | Fácil | 4 |
 
 | **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
@@ -43,7 +43,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 | **Usuário** 	| **Idade** 	| **Esolaridade** | **Profissão** |   
 | --- 	| --- 	| --- | ---  |
-| Usuário 1	| 26 	| Superior Completo | Promotora de Eventos | 
+| Usuário 1	| 46 	| Superior Completo | Promotora de Eventos | 
 | Usuário 2 | 33 	| Superior Completo | Cliente buscando evento  | 
 | Usuário 3	| 28	| Superior Completo | Artista de rua   |
 
