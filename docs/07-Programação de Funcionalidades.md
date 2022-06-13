@@ -1,15 +1,17 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+A implementação do sistema foi descrita considerando os requisitos funcionais e/ou não funcionais. Para isso, é mostrada abaixo uma tabela com os requisitos atendidos e os seus respectivos artefatos criados (código fonte), além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Para cada requisito funcional, pode ser entregue um artefato desse tipo.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+| ID  | Requisito  | Artefato |
+|----|-----------------------------------------|----|
+| RF-001 |  A aplicação deve permitir que o usuário (cliente e promoter) permaneça logado por 7 dias. | login.cshtml | 
+| RF-002 | A aplicação deve permitir que somente o promoter logado possa cadastrar um novo Evento, e editar um Evento já cadastrado. | Create.cshtml na Pasta Eventos |
+| RF-003 | A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa ter acesso a página de Eventos e Comentários. | Index.cshtml na pasta Eventos e também na pasta Comentários|
+| RF-004 | A aplicação deve disponibilizar um campo para comentários e avaliações por nota (0-10) de cada evento para os clientes. | Create.cshtml na pasta Eventos |
+| RF-005 | A aplicação deve disponibilizar ao usuário (cliente e promoter) datas, horários, locais e informações adicionais sobre os eventos cadastrados. | Index.cshtml na pasta Eventos |
+| RF-006 | A aplicação deve disponibilizar opções para que o usuário logado (cliente e promoter) possa editar\deletar seu perfil. | Edit.cshtml  Delete.cshtml  Details.cshtml |
+| RF-007 | Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. | Create.cshtml |
+| RF-008 | A aplicação deve permitir que as avaliações estejam visiveis para todos os usuários (cliente e promoter). | Create.cshtml  ComentariosController.cs |
+| RF-009 | A aplicação deve permitir que o usuário se cadastre como Promoter ou como Publico. | Create.cshtml na pasta Usuarios |
