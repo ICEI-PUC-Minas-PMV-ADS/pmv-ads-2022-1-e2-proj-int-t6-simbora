@@ -5,8 +5,8 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 | **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-001 	| Menos de 1min | 3 | 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-001	| 1 min | 3  | 3 | Nenhum | Fácil | 5 |
+| Usuário 1	| RF-001 	| Menos de 1min | 0| 0 | Nenhum | Fácil | 5 |
+| Usuário 2 | RF-001	| 1 min | 3  | 0| Nenhum | Fácil | 5 |
 | Usuário 3	| RF-001 	| 1min | 3  | 3 | Nenhum | Fácil | 5 |
 
 | **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
