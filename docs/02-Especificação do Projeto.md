@@ -227,10 +227,6 @@
     <td>Alta</td>
    </tr>
    <tr>
-<<<<<<< HEAD
-    <td><b>RF-05</b></td>
- <td>A aplicação deve permitir que o usuário se cadastre como Promoter ou como Publico. </td>
-=======
     <td><b>RF-09</b></td>
  <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Cliente. </td>
 >>>>>>> 0a61f72b16874aa2ca4be46ddbe897688957133e
