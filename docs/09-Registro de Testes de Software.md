@@ -4,6 +4,18 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+## CT-01 - Cadastro do usuário
+
+https://user-images.githubusercontent.com/91221827/175820319-0b422fc8-f94e-45c4-8c69-c63964ee676f.mp4
+
+## CT-02 - Login do usuário
+
+
+
+## CT-03 - Cadastro de Evento
+
+## CT-04 - Cadastro de Comentário sobre um evento
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
