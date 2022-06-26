@@ -18,47 +18,36 @@ O método utilizado é de medição e avaliação. O teste visa a avaliar:
 Realizados os testes, será feita análise quantitativa dos aspectos negativos observados, bem como poderá incluidos comentários sobre a qualidade da aplicação. 
 
 
-| `Caso de teste ` | ` CTU-001 Fazer Login `                   | 
+| `Caso de teste ` | ` CTU-001  Realizar cadastro `                   | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Realização de login no sistema                   |  
-| Critérios de Êxito           | Identificação e preenchimento dos campos com posterior entrada no sistema| 
+| Objetivo do teste            | Identificar opção de cadastro e criar usuário                   |  
+| Critérios de Êxito           | Usuário identifica onde é possível se cadastrar no sistema | 
 
-| `Caso de teste ` | ` CTU-002 Realizar cadastro caso ainda não possua  `                    | 
+| `Caso de teste ` | ` CTU-002 Fazer Login  `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Identificar opção de cadastro e criar usuário                 |  
-| Critérios de Êxito           | Usuário identifica onde é possível se cadastrar no sistema| 
+| Objetivo do teste            | Realização de login no sistema                    |  
+| Critérios de Êxito           | Identificação e preenchimento dos campos com posterior entrada no sistema | 
 
 
-| `Caso de teste ` | ` CTU-003 formulário de cadastro  `                    | 
+| `Caso de teste ` | ` CTU-003  Cadastro de eventos (Promoters) `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se é claro as informações de preenchimento             |  
+| Objetivo do teste            | Identificar opção de cadastro de um evento e campos obrigatorios.            |  
 | Critérios de Êxito           | Usuário preenche os campos corretamente  | 
 
 
-| `Caso de teste ` | ` CTU-004 Campos obrigatório no formulário de cadastro   `                    | 
+| `Caso de teste ` | ` CTU-004  Comentários  (Cliente e Promoter) `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Usuário identifica campos de preenchimento obrigatório                    |  
-| Critérios de Êxito           | Usuário preenche os campos obrigatório|
+| Objetivo do teste            | Usuário identifica o campo para deixar um comentario e a opção de envia-lo.                   |  
+| Critérios de Êxito           | Usuário preenche o campo corretamente e envia seu comentario.|
 
-| `Caso de teste ` | ` CTU-005 Erro no envio cadastro `                    | 
+| `Caso de teste ` | ` CTU-005 Acesso a lista de eventos (ambos os usuários) `                    | 
 |--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o sistema informa ao usuário que o seu cadastrado não foi efetivado                    |  
-| Critérios de Êxito           | Sistema informa que o formulário não foi enviado com aviso| 
+| Objetivo do teste            | Identifica a area de usuarios e visualizar a lista de usuarios                     |  
+| Critérios de Êxito           | Usuário visualiza a lista de o | 
 
-| `Caso de teste ` | ` CTU-006 Cadastro Efetivado `                    | 
-|--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o sistema informa ao usuário que o seu cadastro foi concluído                   |  
-| Critérios de Êxito           | Sistema informa que o usuário  foi cadastrado com sucesso| 
 
-| `Caso de teste ` | ` CTU-007 Usuário tipo Promoter entende onde inclui novo evento  `                    | 
-|--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o usuário tipo Promoter identifica a opção de incluir, editar e deletar evento                    |  
-| Critérios de Êxito           | Usuário tipo Promoter identifica opções de cadastrar novo evento, e editar e deletar evento já cadastrado| 
 
-| `Caso de teste ` | ` CTU-008 Usuário entende onde inclui, edita e deleta comentários sobre eventos `                    | 
-|--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Verificar se o usuário identifica a opção de incluir, editar e deletar evento                   |  
-| Critérios de Êxito           | Usuário identifica opções de incluir, editar e deletar evento  | 
+
 
 
 
