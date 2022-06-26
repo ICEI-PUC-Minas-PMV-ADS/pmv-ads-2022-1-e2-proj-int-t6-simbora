@@ -232,7 +232,6 @@
     <td><b>RF-09</b></td>
  <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho.
  </td>
- <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Cliente. </td>
     <td>Alta</td>
    </tr>
   </tbody>
