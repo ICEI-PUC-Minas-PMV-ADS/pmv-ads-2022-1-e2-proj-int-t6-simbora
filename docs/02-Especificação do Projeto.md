@@ -205,7 +205,7 @@
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa cadastrar um Comentário sobre determinado evento, inserindo informações como: nome do evento, nota (0-10), e comentário; e possa visualizar um comentário cadastrado.
+    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa adicionar um Comentário sobre determinado evento, inserindo informações como: nome do evento, nota (0-10), e comentário; e possa visualizar um comentário cadastrado.
     </td>    <td>Alta</td>
    </tr>
   </tbody>

@@ -2,42 +2,30 @@
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
+| **Usuário** | **Caso de teste** | **Requisito** | **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Usuário 1 | CTU-001	| RF-001 	| 1min | 6 | 0 | Nenhum | Fácil | 5 |
+| Usuário 2 | CTU-001 | RF-001	| 1min | 6| 0 | Nenhum | Fácil | 5 |
+| Usuário 3	| CTU-001 | RF-001 	| 1 min | 6  | 0 | Nenhum | Fácil | 5 |
 
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-001 	| Menos de 1min | 3| 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-001	| 1 min | 3  | 0| Nenhum | Fácil | 5 |
-| Usuário 3	| RF-001 	| 1min | 3  | 0| Nenhum | Fácil | 5 |
+| **Usuário** | **Caso de teste** | **Requisito** | **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Usuário 1	| CTU-002	| RF-002 	| 2min | 7  | 3| Nenhum | 5 |
+| Usuário 2 | CTU-002	| RF-002 	| 2min 5seg | 3  | 0 | Nenhum | Nenhum | 5 |
+| Usuário 3	| CTU-002	| RF-002 	| 2min  | 3 | 0 | Nenhum | Fácil | 5 |
 
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-002 	| Até 5nmin  | 8 | 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-002 	|3 min e 30s | 8 | 0 | Nenhum | Facil | 4 |
-| Usuário 3	| RF-002	| 2 min e 25s| 8 | 0 | Nenhum | Fácil | 4 |
+| **Usuário** | **Caso de teste** | **Requisito** | **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Usuário 1	| CTU-003	| RF-003	| 4 min | 9 | 0 | Nenhum | Fácil | 5 |
+| Usuário 2 | CTU-003	| RF-003 	| 3 a 4 min | 9  | 0 | Nenhum | 4 |
 
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-003	| Até 1 min | 12 | 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-003 	| 20s | 50s  10  | 0 Nenhum | Fácil | 5 |
-| Usuário 3	| RF-003 	| 27s | 13 | 0 | Nenhum | Fácil | 4 |
 
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-004	| Até 1 min  | 5 | 0 | Nenhum | Fácil | 5 |
-| Usuário 2 | RF-004	| 50s | 5 | 0 | Nenhum | Fácil | 5 |
-| Usuário 3	| RF-004	| 22s | 6  | 0 | Nenhum | Fácil | 4 |
+| **Usuário** | **Caso de teste** | **Requisito** | **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Usuário 1	| CTU-004	| RF-004	| 2 min | 3| 0 | Nenhum | Fácil | 5 |
+| Usuário 2 | CTU-004	| RF-004	| 2min  | 3  | 0 | Nenhum | Fácil | 5 |
+| Usuário 3	| CTU-004	| RF-004	| 2min | 3 | 0 | Nenhum | Fácil | 5|
 
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-005	| Mais de 10s | Não Houve | 1 | Não | 0 |
-| Usuário 2 | RF-005 	| Até 50s | 4  | 0 | Nenhum |  | 5 |
-| Usuário 3	| RF-005 | 22s | 5  | 0 | Nenhum | Fácil | 4 |
-
-| **Usuário** 	| **Requisito** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- | --- |
-| Usuário 1	| RF-006	| Menos de 10s | 5 | 0 | Nenhum| Fácil | 5 |
-| Usuário 2 | RF-006 	| 1min | 2  | 0 | Nenhum | Facil| 5 |
-| Usuário 3	| RF-006 | 20s | 6  | 0 | Nenhum | Fácil | 5 |
 
 **Perfil do Usuário**
 
