@@ -10,9 +10,11 @@ https://user-images.githubusercontent.com/91221827/175820319-0b422fc8-f94e-45c4-
 
 ## CT-02 - Login do usuário
 
-
+https://user-images.githubusercontent.com/91221827/175820361-aafc1ae8-1eb2-43e5-87a3-8a8b18ca445f.mp4
 
 ## CT-03 - Cadastro de Evento
+
+
 
 ## CT-04 - Cadastro de Comentário sobre um evento
 
