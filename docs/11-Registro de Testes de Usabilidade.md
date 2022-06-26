@@ -35,3 +35,8 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 | Usuário 1	| 46 	| Superior Completo | Promotora de Eventos | 
 | Usuário 2 | 33 	| Superior Completo | Cliente buscando evento  | 
 | Usuário 3	| 28	| Superior Completo | Artista de rua   |
+
+## Avaliação
+Os testes foram realizados em datas e locais diferentes,  o tempo médio de cada teste foi de aproximadamente 10 minutos por ambos os tipos de usuario, utilizando apenas o computador de seu uso pessoal em seu ambiente de estudo / trabalho.
+Todos os testes foram feitos separadamente sem nenhum tipo de ajuda externa, com o objetivo de simplesmente perceber possíveis melhorias ao site proposto.
+Para a realização do teste foram convidados 5 participantes, dentre os participantes que se enquadram no público alvo do site 3 tem mais afinidade com eventos, produção de musica e busca por eventos locais. Durante os testes de usabilidade foi encontrado um erro no desenvolvimento do sistema, onde Promoter e Usuarios podem alterar perfis uns dos outros. Foi observado que o site há uma dinamica simples e facil de ser executada. 
