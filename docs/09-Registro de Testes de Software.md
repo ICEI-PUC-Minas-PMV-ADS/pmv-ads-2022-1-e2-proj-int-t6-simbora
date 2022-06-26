@@ -12,11 +12,12 @@ https://user-images.githubusercontent.com/91221827/175820319-0b422fc8-f94e-45c4-
 
 https://user-images.githubusercontent.com/91221827/175820361-aafc1ae8-1eb2-43e5-87a3-8a8b18ca445f.mp4
 
-## CT-03 - Cadastro de Evento
+## CT-03 - Cadastro de Evento e visualização da lista com Eventos cadastrados
 
 https://user-images.githubusercontent.com/91221827/175820394-bf96b25d-e353-4221-b63a-ec3754d5a7ab.mp4
 
-## CT-04 - Cadastro de Comentário sobre um evento
+## CT-04 - Cadastro de Comentário sobre um evento e visualização da lista com Comentários cadastrados
+
 
 https://user-images.githubusercontent.com/91221827/175820431-832605b6-178c-4621-b1ad-bda8e068ab95.mp4
 
