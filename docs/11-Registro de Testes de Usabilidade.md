@@ -36,7 +36,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 **Perfil do Usuário**
 
-| **Usuário** 	| **Idade** 	| **Esolaridade** | **Profissão** |   
+| **Usuário** 	| **Idade** 	| **Escolaridade** | **Profissão** |   
 | --- 	| --- 	| --- | ---  |
 | Usuário 1	| 46 	| Superior Completo | Promotora de Eventos | 
 | Usuário 2 | 33 	| Superior Completo | Cliente buscando evento  | 
