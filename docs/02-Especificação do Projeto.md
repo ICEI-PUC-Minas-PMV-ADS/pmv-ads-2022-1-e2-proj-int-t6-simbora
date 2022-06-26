@@ -230,12 +230,10 @@
    </tr>
    <tr>
     <td><b>RF-09</b></td>
-<<<<<<< HEAD:docs/02-Especificação do Projeto.md
  <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho.
  </td>
 =======
  <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Cliente. </td>
->>>>>>> 9f5edf9f0386e3a701b7a6bfa02a1d4373d82db6:documentos/02-Especificação do Projeto.md
     <td>Alta</td>
    </tr>
   </tbody>
