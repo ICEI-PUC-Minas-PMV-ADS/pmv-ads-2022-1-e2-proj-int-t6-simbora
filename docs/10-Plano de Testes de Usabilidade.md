@@ -43,7 +43,7 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 | `Caso de teste ` | ` CTU-005 Acesso a lista de eventos (ambos os usuários) `                    | 
 |--------------------|--------------------------------------------------------| 
 | Objetivo do teste            | Identifica a area de usuarios e visualizar a lista de usuarios                     |  
-| Critérios de Êxito           | Usuário visualiza a lista de o | 
+| Critérios de Êxito           | Usuário visualiza a lista de eventos. 
 
 
 

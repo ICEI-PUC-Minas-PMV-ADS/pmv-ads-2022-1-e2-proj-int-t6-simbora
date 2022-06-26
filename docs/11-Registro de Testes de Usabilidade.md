@@ -27,6 +27,13 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 | Usuário 3	| CTU-004	| RF-004	| 2min | 3 | 0 | Nenhum | Fácil | 5|
 
 
+| **Usuário** | **Caso de teste** | **Requisito** | **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Dificuldade** | **Satisfação** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Usuário 1	| CTU-005	| RF-00	| 2 min | 3| 0 | Nenhum | Fácil | 5 |
+| Usuário 2 | CTU-005	| RF-004	| 2min  | 3  | 0 | Nenhum | Fácil | 5 |
+| Usuário 3	| CTU-005	| RF-004	| 2min | 3 | 0 | Nenhum | Fácil | 5|
+
+
 **Perfil do Usuário**
 
 | **Usuário** 	| **Idade** 	| **Esolaridade** | **Profissão** |   
