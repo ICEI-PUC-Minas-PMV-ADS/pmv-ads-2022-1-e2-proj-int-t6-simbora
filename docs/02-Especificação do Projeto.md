@@ -191,7 +191,7 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td>A aplicação deve permitir que o usuário (cliente e promoter) permaneça logado por 7 dias. </td>
+      <td>A aplicação deve permitir que o usuário se cadastre como Promoter ou como Cliente. </td>
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
@@ -200,36 +200,38 @@
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa ter acesso a página de Eventos e Comentários.
+    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa ter acesso a página de Eventos e Comentários
     </td>    <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-   <td>A aplicação deve disponibilizar um campo para comentários e avaliações por nota (0-10) de cada evento para os clientes. </td>
+   <td>A aplicação deve disponibilizar ao usuário (cliente e promoter) datas, horários, locais e informações adicionais sobre os eventos cadastrados. </td>
     <td>Alta</td></tr>
    <tr>
     <td><b>RF-05</b></td>
- <td>A aplicação deve disponibilizar ao usuário (cliente e promoter) datas, horários, locais e informações adicionais sobre os eventos cadastrados.</td>
+ <td>A aplicação deve disponibilizar opções para que o usuário logado (cliente e promoter) possa editar\deletar seu perfil.
+</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-06</b></td>
- <td>A aplicação deve disponibilizar opções para que o usuário logado (cliente e promoter) possa editar\deletar seu perfil. </td>
+ <td> A aplicação deve disponibilizar um campo para comentários e avaliações por nota (0-10) de cada evento para os clientes.
+</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-07</b></td>
-    <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
+    <td>A aplicação deve permitir que as avaliações estejam visiveis para todos os usuários (cliente e promoter) </td>
     <td>Alta</td>
    </tr>
    <td><b>RF-08</b></td>
-    <td> A aplicação deve permitir que as avaliações estejam visiveis para todos os usuários (cliente e promoter). </td>
+    <td> A aplicação deve permitir que o usuário permaneça logado por 7 dias.</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-09</b></td>
- <td>A aplicação deve permitir que o usuário se cadastre como  Promoter ou como Cliente. </td>
->>>>>>> 0a61f72b16874aa2ca4be46ddbe897688957133e
+ <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho.
+ </td>
     <td>Alta</td>
    </tr>
   </tbody>
