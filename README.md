@@ -2,7 +2,7 @@
 
 Análise e Desenvolvimento de Sistema
 
-`Desenvolvimento de uma Aplicação interativ
+`Desenvolvimento de uma Aplicação  Interativa
 
 2 Semestre
 
@@ -14,6 +14,10 @@ Análise e Desenvolvimento de Sistema
 ## Orientador
 
 * Professora Luciana De Nardin
+
+## Instruções de utilização
+
+O objetivo dessa aplicação é possibilitar que usuários do tipo promoter possam divulgar seus eventos que irão acontecer em Belo Horizonte, favorecendo uma maior visibilidade do seu trabalho para o público; assim como oferecer uma lista de diferentes eventos, que irão acontecer nesta cidade, para usuários do tipo cliente que não tem tempo suficiente para procurar por opções de entretenimento em diferentes sites e necessitam de um único site que reuna todos os principais eventos. Para acessar a aplicação clique em : http://simbora-001-site1.ftempurl.com/.
 
 # Documentação
 <ol>
@@ -36,7 +40,12 @@ Análise e Desenvolvimento de Sistema
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
+http://simbora-001-site1.ftempurl.com/
 
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+https://user-images.githubusercontent.com/91221827/175799684-8b64e241-026f-438e-9a9b-20a2866e1478.mp4
+
+

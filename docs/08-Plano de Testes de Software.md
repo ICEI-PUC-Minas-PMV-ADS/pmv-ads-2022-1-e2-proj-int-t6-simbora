@@ -22,3 +22,9 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | **Passos**                      | 	1) Acessar o Navegador 2) Informar o endereço do Site web 3) Entrar na página Inicial 4) Selecionar um evento  5) Ver Configuracoes de evento . |
 | **Critérios de êxito**          | O objetivo se apresentou com êxito.
  
+| Caso de Teste               | CT-03 –  Avaliação de login                              |
+|-----------------------------|-----------------------------------------------------------------------------------|
+|**Requisitos associados**      | RF-004]  - A aplicação deve disponibilizar um campo para comentários e avaliações por nota (0-10) de cada evento para os clientes.|
+| **Objetivo do teste**           | Permitir que todos seus clientes escrevam comentários sobre os eventos. | 
+| **Passos**                      | 	1) Acessar o Navegador 2) Informar o endereço do Site web 3) Entrar na página Inicial 4) Selecionar o link Comentários  5) Acessar o link New Create, em seguida preencher os campos pedidos e clicar no botão Salvar. |
+| **Critérios de êxito**          | O objetivo se apresentou com êxito.
