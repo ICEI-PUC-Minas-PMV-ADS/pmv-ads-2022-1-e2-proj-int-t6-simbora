@@ -41,6 +41,3 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 | Usuário 1	| 46 	| Superior Completo | Promotora de Eventos | 
 | Usuário 2 | 33 	| Superior Completo | Cliente buscando evento  | 
 | Usuário 3	| 28	| Superior Completo | Artista de rua   |
-
-# Conclusão 
-
