@@ -195,7 +195,7 @@
    <td>Alta</td>
    <tr>
     <td><b>RF-02</b></td>
-    <td>A aplicação deve permitir que somente o usuário cadastrado previamente possa realizar o seu login e logout.
+    <td>A aplicação deve permitir que somente o usuário cadastrado previamente possa realizar o seu login, logout e visualizar os eventos cadastrados quando logado no sistema.
     </td>    <td>Alta</td>
    </tr>
    <tr>
