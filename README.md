@@ -2,7 +2,7 @@
 
 Análise e Desenvolvimento de Sistema
 
-`Desenvolvimento de uma Aplicação interativ
+`Desenvolvimento de uma Aplicação  Interativa
 
 2 Semestre
 
