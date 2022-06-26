@@ -14,9 +14,11 @@ https://user-images.githubusercontent.com/91221827/175820361-aafc1ae8-1eb2-43e5-
 
 ## CT-03 - Cadastro de Evento
 
-
+https://user-images.githubusercontent.com/91221827/175820394-bf96b25d-e353-4221-b63a-ec3754d5a7ab.mp4
 
 ## CT-04 - Cadastro de Comentário sobre um evento
+
+
 
 ## Avaliação
 
