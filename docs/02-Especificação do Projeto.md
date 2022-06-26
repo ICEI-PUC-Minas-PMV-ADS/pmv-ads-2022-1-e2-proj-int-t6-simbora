@@ -205,27 +205,8 @@
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa cadastrar um Comentário sobre determinado evento, inserindo informações como: nome do evento, nota (0-10), e comentário.
+    <td>A aplicação deve permitir que somente o usuário logado, como promoter ou cliente, possa cadastrar um Comentário sobre determinado evento, inserindo informações como: nome do evento, nota (0-10), e comentário; e possa visualizar um comentário cadastrado.
     </td>    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-05</b></td>
-   <td>A aplicação deve disponibilizar ao usuário logado (cliente e promoter) datas, horários, locais e informações adicionais sobre os eventos cadastrados. </td>
-    <td>Alta</td></tr>
-    <tr>
-    <td><b>RF-06</b></td>
-    <td>A aplicação deve permitir que os comentários estejam visiveis para todos os usuários (cliente e promoter) </td>
-    <td>Alta</td>
-   </tr>
-   <td><b>RF-07</b></td>
-    <td> A aplicação deve permitir que o usuário permaneça logado por 7 dias.</td>
-    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-08</b></td>
- <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho.
- </td>
-    <td>Alta</td>
    </tr>
   </tbody>
  </table>
