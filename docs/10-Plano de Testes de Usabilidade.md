@@ -40,10 +40,7 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 | Objetivo do teste            | Usuário identifica o campo para deixar um comentario e a opção de envia-lo.                   |  
 | Critérios de Êxito           | Usuário preenche o campo corretamente e envia seu comentario.|
 
-| `Caso de teste ` | ` CTU-005 Acesso a lista de eventos (ambos os usuários) `                    | 
-|--------------------|--------------------------------------------------------| 
-| Objetivo do teste            | Identifica a area de usuarios e visualizar a lista de usuarios                     |  
-| Critérios de Êxito           | Usuário visualiza a lista de eventos. 
+|
 
 
 
