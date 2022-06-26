@@ -6,7 +6,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 
 
-|Caso de Teste |CT-01 – | Cadastro de Usuário
+|Caso de Teste |CT-01 – | Cadastro de Usuário                                                                          |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-001 - A aplicação deve permitir o cadastro de usuário do tipo Promoter ou Cliente, 
 |**Objetivo do Teste** | Permitir que o usuário realize o seu cadastro, inserindo os seus dados como: nome, cpf, telefone, e-mail, escolha seu perfil de usuário (cliente ou promoter) e crie uma senha  |
